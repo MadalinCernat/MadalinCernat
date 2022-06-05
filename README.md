@@ -1,6 +1,6 @@
 ### Greetings!
 
-__What do I know:__   
+__Skill set:__   
   - C#, C  
   - Blazor, MVC, API  
   - SQL, MSSQL, SQLite, MongoDB
@@ -27,7 +27,7 @@ __Find me on:__
 
 
 
-__Github stats for 2022:__  
+__Github stats:__  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MadalinCernat&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
 
