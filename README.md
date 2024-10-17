@@ -1,2 +1,2 @@
-Year 2 computer science student  
+final year computer science student  
 madalin.cernat02@gmail.com
